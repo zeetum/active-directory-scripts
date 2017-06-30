@@ -1,0 +1,3 @@
+sudo apt install realmd sssd oddjob oddjob-mkhomedir samba-common adcli
+https://www.unixmen.com/how-to-join-an-ubuntu-desktop-into-an-active-directory-domain
+
